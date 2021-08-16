@@ -3,3 +3,7 @@
 ################################################################################
 
 /TojoAPI/bin/Debug/net5.0
+/.vs/TojoAPI/config
+/.vs/TojoAPI/DesignTimeBuild
+/TojoAPI/obj/Debug/net5.0
+/TojoAPI/obj
